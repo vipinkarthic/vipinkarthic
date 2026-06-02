@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vipin Karthic !</h1>
-<h3 align="center">Co-Lead and Independent Contractor @BEB-DISCORD  ·  Incoming Intern at AlgoUniversity</h3>
+<h3 align="center">Independent Contractor @BEB-DISCORD  ·  Incoming Intern at AlgoUniversity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipinkarthic&label=Profile%20views&color=0e75b6&style=flat" alt="vipinkarthic" /> </p>
 

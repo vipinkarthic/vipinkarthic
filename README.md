@@ -14,8 +14,8 @@
 </p>
 
 + Currently contributing to **VLC**, my patches live at [code.videolan.org/hardhacker17](https://code.videolan.org/hardhacker17)
-+ I spend my free time on **competitive programming** — mostly Codeforces and CSES
-+ Looking to collaborate on [**Project Z**](https://github.com/vipinkarthic/PJZ) — a roguelike FPS
++ I spend my free time on **competitive programming** - mostly Codeforces and CSES
++ Looking to collaborate on [**Project Z**](https://github.com/vipinkarthic/PJZ) - a roguelike FPS
 + Built **BEB RPG**, an RPG Discord bot game, plus a handful of other Discord bots
 + Reach me at **vipinkarthic17112005@gmail.com** or on Discord **@hardhacker17**
 + Fun fact: **I can type fast :D**

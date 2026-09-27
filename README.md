@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=vipinkarthic&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-+ Currently contributing to **VLC**, my patches live at [code.videolan.org/hardhacker17](https://code.videolan.org/hardhacker17)
++ Currently contributing to **VLC**, my patches are at [code.videolan.org/hardhacker17](https://code.videolan.org/hardhacker17)
 + I spend my free time on **competitive programming** - mostly Codeforces and CSES
 + Looking to collaborate on [**Project Z**](https://github.com/vipinkarthic/PJZ) - a roguelike FPS
 + Built **BEB RPG**, an RPG Discord bot game, plus a handful of other Discord bots

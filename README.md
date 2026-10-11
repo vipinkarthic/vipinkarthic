@@ -18,4 +18,4 @@
 + Currently working on shaders and graphics programming :)
 + Built **BEB RPG**, an RPG Discord bot game, plus a handful of other Discord bots
 + Reach me at **vipinkarthic17112005@gmail.com** or on Discord **@hardhacker17**
-+ Fun fact: **I can type fast :D** [Monkeytype](https://monkeytype.com/profile/Hardhacker17)
++ Fun fact: **I can type fast :D** -> [hardhacker17 @Monkeytype](https://monkeytype.com/profile/Hardhacker17)

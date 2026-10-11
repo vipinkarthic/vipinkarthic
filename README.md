@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vipin Karthic!</h1>
+<h1 align="center">Hi, I'm Vipin Karthic!</h1>
 <h3 align="center">Independent Contractor @BEB-DISCORD · Ex AlgoUniversity SWE Intern</h3>
 
 <p align="center">

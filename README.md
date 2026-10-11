@@ -2,11 +2,11 @@
 <h3 align="center">Independent Contractor @BEB-DISCORD · Ex AlgoUniversity SWE Intern</h3>
 
 <p align="center">
-  <a href="https://codeforces.com/profile/hardhacker17"><img src="https://img.shields.io/badge/Codeforces-hardhacker17-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces: hardhacker17" /></a>
-  <a href="https://www.codechef.com/users/hardhacker17"><img src="https://img.shields.io/badge/CodeChef-hardhacker17-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef: hardhacker17" /></a>
-  <a href="https://leetcode.com/u/hardhacker17/"><img src="https://img.shields.io/badge/LeetCode-hardhacker17-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode: hardhacker17" /></a>
-  <a href="https://atcoder.jp/users/hardhacker17"><img src="https://img.shields.io/badge/AtCoder-hardhacker17-222222?style=flat" alt="AtCoder: hardhacker17" /></a>
-  <a href="https://code.videolan.org/hardhacker17"><img src="https://img.shields.io/badge/VideoLAN%20GitLab-hardhacker17-FC6D26?style=flat&logo=gitlab&logoColor=white" alt="VideoLAN GitLab: hardhacker17" /></a>
+  <a href="https://codeforces.com/profile/hardhacker17"><img src="assets/codeforces.svg" alt="Codeforces: hardhacker17" /></a>
+  <a href="https://www.codechef.com/users/hardhacker17"><img src="assets/codechef.svg" alt="CodeChef: hardhacker17" /></a>
+  <a href="https://leetcode.com/u/hardhacker17/"><img src="assets/leetcode.svg" alt="LeetCode: hardhacker17" /></a>
+  <a href="https://atcoder.jp/users/hardhacker17"><img src="assets/atcoder.svg" alt="AtCoder: hardhacker17" /></a>
+  <a href="https://code.videolan.org/hardhacker17"><img src="assets/videolan.svg" alt="VideoLAN GitLab: hardhacker17" /></a>
 </p>
 
 <p align="center">
